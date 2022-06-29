@@ -123,7 +123,6 @@ class _DownloadReelState extends State<DownloadReel> {
 
 
   /*
-  *
   * Method
   *
   *
